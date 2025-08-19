@@ -12,14 +12,3 @@ This project demonstrates:
 - **Real-time Processing:** designed for live detection on video streams or webcam feeds.
 
 ---
-
-##  Demo
-
-_Include a GIF or a screenshot here for visual appeal._
-
-Optional: If you have a demo video (e.g., `vehicle speed.mp4`) already in your repo, link it like this:
-
-```markdown
-##  Demo Video
-
-[![Watch the demo video](https://img.icons8.com/fluency/240/play.png)](vehicle%20speed.mp4)
